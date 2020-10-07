@@ -14,7 +14,7 @@ Pour le moment, mes projets vont de la création d'un site vitrine pour une agen
 ### Contact :
 
 
-👩🏼‍💻 Find me on [LinkedIn](https://www.linkedin.com/in/flore-malonda-56871514a/)
+👩🏼‍💻 Find me on [LinkedIn](https://frama.link/lienversmonlinkedin)
 
 :file_folder: Take a look at my [GitHub](https://github.com/Flower-dev)
 <!--
