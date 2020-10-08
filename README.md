@@ -4,7 +4,7 @@
 
 </center>
 
-Ex-communication manager in the cultural domain, I recently went to the dark side by focusing on web dev (front-end) and UX/UI design. 🌱
+Former communication manager in the cultural domain, I recently went to the dark side by focusing on web dev (front-end) and UX/UI design. 🌱
 
 I am currently looking for a junior position as an UX/UI designer, starting immediately and preferably in Paris.
 
@@ -13,7 +13,7 @@ For the moment, my projects range from the creation of a showcase site for an in
 
 - - - - - - -
 
-ancienne chargée de communication dans le milieu de la culture, je suis passée depuis peu du côté obscur en m'intéressant au dev web (front-end) et à l'UX/UI design 🌱
+Ancienne chargée de communication dans le milieu de la culture, je suis passée depuis peu du côté obscur en m'intéressant au dev web (front-end) et à l'UX/UI design 🌱
 
 Je suis actuellement à la recherche d'un poste d'UX/UI designer junior de préférence sur Paris.
 
