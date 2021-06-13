@@ -1,6 +1,20 @@
 <center>
 
 ### Hi, I'm Flore 👋
+  
+  Développeuse d'application Front-End junior 
+  
+## Mes compétences :
+- Dev Front-End 
+- Web Design
+- UX/UI Design
+- Graphisme & Photographie
+
+## Mes langages & outils : 
+- HTML/CSS -> SASS
+- Javascript
+- React JS 
+- utilisation du CSS in JS avec Material UI
 
 </center>
 
