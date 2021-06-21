@@ -3,7 +3,9 @@
 ### Hi, I'm Flore 👋
   
   Développeuse d'application Front-End junior 
-  
+<!--  
+Intéressée par la création d'applications Web frontend, principalement avec React, mais j'ai hâte d'apprendre 📖 ! Vous trouverez ci-dessous mes derniers projets et ceux sur lesquels je travaille actuellement.
+-->  
 ## Mes compétences :
 - Dev Front-End 
 - Web Design
