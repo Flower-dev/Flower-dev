@@ -6,9 +6,9 @@
  ![undraw_our_solution_re_8yk6 height="60" width="60"](https://user-images.githubusercontent.com/67862441/168171846-95b8d1d6-caa6-4560-ab16-0901d29520ee.svg)
  
  ### Statistics : 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flower-dev&theme=radical&hide_langs_below=8&count_private=true) 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flower-dev&hide_langs_below=8&count_private=true) 
  
- ![](https://github-readme-stats.vercel.app/api?username=Flower-dev&show_icons=true&theme=radical&count_private=true)
+ ![](https://github-readme-stats.vercel.app/api?username=Flower-dev&show_icons=true&count_private=true)
 
 
 ### Languages & utils : 
