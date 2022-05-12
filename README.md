@@ -2,21 +2,23 @@
 
 ### Hi, I'm Flore 👋
   
-  Développeuse d'application Front-End junior 
-<!--  
-Intéressée par la création d'applications Web frontend, principalement avec React, mais j'ai hâte d'apprendre 📖 ! Vous trouverez ci-dessous mes derniers projets et ceux sur lesquels je travaille actuellement.
--->  
-## Mes compétences :
-- Dev Front-End 
-- Web Design
-- UX/UI Design
-- Graphisme & Photographie
+ FrontEnd React JS developer!!
+ ![undraw_our_solution_re_8yk6 height="60" width="60"](https://user-images.githubusercontent.com/67862441/168171846-95b8d1d6-caa6-4560-ab16-0901d29520ee.svg)
+ 
+ ### Statistics : 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flower-dev&theme=radical&hide_langs_below=8&count_private=true) 
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=Flower-dev&show_icons=true&theme=radical&count_private=true)
 
-## Mes langages & outils : 
+
+### Languages & utils : 
 - HTML/CSS -> SASS
 - Javascript
 - React JS 
-- utilisation du CSS in JS avec Material UI
+- TypeScript
+- Redux
+- MUI
+- npm
 
 </center>
 
