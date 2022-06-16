@@ -12,14 +12,16 @@
 
 
 ### Languages & utils : 
-- HTML/CSS (SASS)
+- HTML/CSS
 - Javascript & TypeScript
 - React JS & React TS
+  
+### Utils
 - Redux
 - Axios & Fetch
 - Mui & bootstrap
 - npm
-
+  
 </center>
 
 
