@@ -15,6 +15,7 @@
 - HTML/CSS
 - Javascript & TypeScript
 - React JS & React TS
+- Next JS
   
 ### Utils
 - Redux
