@@ -11,13 +11,13 @@
  ![](https://github-readme-stats.vercel.app/api?username=Flower-dev&show_icons=true&count_private=true)
 
 
-### Languages & utils : 
+### ✨ Languages & utils : 
 - HTML/CSS
 - Javascript & TypeScript
 - React JS & React TS
 - Next JS
   
-### Utils
+### ✨  Utils
 - Redux
 - Axios & Fetch
 - Mui & bootstrap
