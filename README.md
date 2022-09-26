@@ -1,8 +1,14 @@
 <center>
 
-### Hi, I'm Flore 👋
+### Hi, moi c'est Flore, développeuse Front-end React 👋
   
- FrontEnd React JS developer!!
+Après des études dans la gestion des arts et de la culture et des postes de chargée de communication entre autres, j'ai souhaité comprendre le fonctionnement des CMS que j'utilisais.
+
+
+De nature curieuse, mes expériences professionnelles et personnelles m'ont permis de développer un certain nombre de soft-skills tel que l'esprit d'équipe, la polyvalence ou encore la persévérance.
+
+*Mes objectifs* : faire évoluer et développer mes compétences techniques dans une entreprise bienveillante.
+
  ![undraw_our_solution_re_8yk6 height="60" width="60"](https://user-images.githubusercontent.com/67862441/168171846-95b8d1d6-caa6-4560-ab16-0901d29520ee.svg)
  
  ### Statistics : 
@@ -16,6 +22,7 @@
 - Javascript & TypeScript
 - React JS & React TS
 - Next JS
+- React Native
   
 ### ✨  Utils
 - Redux
