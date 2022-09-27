@@ -9,7 +9,7 @@ De nature curieuse, mes expériences professionnelles et personnelles m'ont perm
 
 *Mes objectifs* : faire évoluer et développer mes compétences techniques dans une entreprise bienveillante.
 
- ![undraw_our_solution_re_8yk6 height="60" width="60"](https://user-images.githubusercontent.com/67862441/168171846-95b8d1d6-caa6-4560-ab16-0901d29520ee.svg)
+ ![undraw_web_development](undraw_web_development_0l6v.svg)
  
  ### Statistics : 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flower-dev&hide_langs_below=8&count_private=true) 
