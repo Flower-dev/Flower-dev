@@ -1,6 +1,6 @@
 <center>
 
-### Hi, moi c'est Flore, développeuse Front-end React 👋
+### Hey, moi c'est Flore, développeuse Front-end React 👋
   
 Après des études dans la gestion des arts et de la culture et des postes de chargée de communication entre autres, j'ai souhaité comprendre le fonctionnement des CMS que j'utilisais.
 
