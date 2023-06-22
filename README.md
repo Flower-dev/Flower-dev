@@ -1,6 +1,6 @@
 <center>
 
-### Hey, moi c'est Flore, développeuse Front-end React 👋
+### Hey, moi c'est Flower, développeuse Front-end React 👋
   
 Après des études dans la gestion des arts et de la culture et des postes de chargée de communication entre autres, j'ai souhaité comprendre le fonctionnement des CMS que j'utilisais.
 
@@ -13,9 +13,6 @@ De nature curieuse, mes expériences professionnelles et personnelles m'ont perm
  
  ### Statistics : 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flower-dev&hide_langs_below=8&count_private=true) 
- 
- ![](https://github-readme-stats.vercel.app/api?username=Flower-dev&show_icons=true&count_private=true)
-
 
 ### ✨ Languages & utils : 
 - HTML/CSS
