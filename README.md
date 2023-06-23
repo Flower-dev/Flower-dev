@@ -11,9 +11,6 @@ De nature curieuse, mes expériences professionnelles et personnelles m'ont perm
 
  ![undraw_web_development](undraw_web_development_0l6v.svg)
  
- ### Statistics : 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flower-dev&hide_langs_below=8&count_private=true) 
-
 ### ✨ Languages & utils : 
 - HTML/CSS
 - Javascript & TypeScript
