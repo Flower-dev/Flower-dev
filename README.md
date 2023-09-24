@@ -22,6 +22,7 @@ De nature curieuse, mes expériences professionnelles et personnelles m'ont perm
 ### ✨  Utils
 - Redux
 - Axios & Fetch
+- Tailwind CSS
 - Mui & bootstrap
 - npm
   
