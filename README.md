@@ -1,6 +1,6 @@
 <center>
 
-### Hey, moi c'est Flower, développeuse Front-end React 👋
+### Hey, moi c'est Flower, développeuse Front-end 👋
   
 Après des études dans la gestion des arts et de la culture et des postes de chargée de communication entre autres, j'ai souhaité comprendre le fonctionnement des CMS que j'utilisais.
 
@@ -17,6 +17,7 @@ De nature curieuse, mes expériences professionnelles et personnelles m'ont perm
 - React JS & React TS
 - Next JS
 - React Native
+- Svelte TS
   
 ### ✨  Utils
 - Redux
