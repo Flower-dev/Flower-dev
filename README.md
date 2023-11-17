@@ -1,29 +1,28 @@
 <center>
 
-### Hey, moi c'est Flower, développeuse Front-end 👋
-  
-Après des études dans la gestion des arts et de la culture et des postes de chargée de communication entre autres, j'ai souhaité comprendre le fonctionnement des CMS que j'utilisais.
+### Hey, I'm Flower 👋
 
-
-De nature curieuse, mes expériences professionnelles et personnelles m'ont permis de développer un certain nombre de soft-skills tel que l'esprit d'équipe, la polyvalence ou encore la persévérance.
-
-*Mes objectifs* : faire évoluer et développer mes compétences techniques.
+A passionate developer from France 🇫🇷
 
  ![undraw_web_development](undraw_web_development_0l6v.svg)
  
-### ✨ Languages & utils : 
+### ✨ Frontend : 
 - HTML/CSS
 - Javascript & TypeScript
 - React JS & React TS
 - Next JS
 - React Native
 - Svelte TS
+- Tailwind CSS
+- Mui & bootstrap
+
+### ✨ Tools : 
+- Figma
   
 ### ✨  Utils
 - Redux
 - Axios & Fetch
-- Tailwind CSS
-- Mui & bootstrap
+- git
 - npm
   
 </center>
