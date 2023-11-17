@@ -19,7 +19,7 @@ A passionate developer from France 🇫🇷
 ### ✨ Tools : 
 - Figma
   
-### ✨  Utils
+### ✨  Utils :
 - Redux
 - Axios & Fetch
 - git
