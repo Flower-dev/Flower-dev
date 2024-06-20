@@ -15,6 +15,7 @@ A passionate developer from France 🇫🇷
 - Svelte TS
 - Tailwind CSS
 - Mui & bootstrap
+- Storybook
 
 ### ✨ Tools : 
 - Figma
@@ -24,6 +25,8 @@ A passionate developer from France 🇫🇷
 - Axios & Fetch
 - git
 - npm
+- pnpm
+- Turbo repo
   
 </center>
 
