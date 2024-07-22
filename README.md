@@ -4,6 +4,8 @@
 
 A passionate developer from France 🇫🇷
 
+With 4 years of experience in software and web interface development, I am dedicated to digital and artistic innovation. I have worked on SaaS products, players, and Design Systems, collaborating with diverse technical teams in Agile environments.
+
  ![undraw_web_development](undraw_web_development_0l6v.svg)
  
 ### ✨ Frontend : 
